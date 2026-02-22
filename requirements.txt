@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+PyPDF2
+faiss-cpu
+sentence-transformers
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-cerebras
+
+# For question_ans_pdf.py
+huggingface-hub
+pypdf
